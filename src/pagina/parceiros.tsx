@@ -1,8 +1,8 @@
-function Informacoes() {
+function Parceiros() {
     return (
         <div>
             <h1>Informações</h1>
         </div>
     )
 }
-export default Informacoes;
+export default Parceiros;
