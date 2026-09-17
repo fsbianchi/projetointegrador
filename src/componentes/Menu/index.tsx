@@ -1,10 +1,10 @@
 import'../../stylo_css/stylo.css'
 
-function Menu() {
+function Botao() {
     return(
         <div>
-            <h1>Cupons</h1>
+            <h1>Botoes</h1>
         </div>
     )
 }
-export default Menu;
+export default Botao;
